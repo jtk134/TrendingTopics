@@ -7,14 +7,17 @@ var c = new Crawler({
             console.log(error);
         } else{
             var $ = res.$;
-            console.log('nate 실시간 이슈 키워드');
+
+            let List = [];
+            List[0] = 'nate 실시간 이슈 키워드';
             
             const $bodyList = $("ol.rankList").children("li.rl");
 
             console.log('');
             $bodyList.each(function(i, elem) {
-                console.log((i + 1) + ". " + $(this).find('span.kw').text().slice((i+1)/10 + 1));
+                List[i + 1] = ((i + 1) + ". " + $(this).find('span.kw').text().slice((i+1)/10 + 1));
             });
+            console.log(List);
         }
         done();
     }
