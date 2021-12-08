@@ -48,12 +48,12 @@ local 서버에 접속하시면 아래와 같은 화면을 볼 수 있습니다.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 # – Roadmap
-[v] Add zum site
-[v] Add nate site
-[ ] Improve UI
-[ ] Add AWS version
-[ ] Add automatic update feature
-[ ] Add another site
+- [v] Add zum site
+- [v] Add nate site
+- [ ] Improve UI
+- [ ] Add AWS version
+- [ ] Add automatic update feature
+- [ ] Add another site
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
