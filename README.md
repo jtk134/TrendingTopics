@@ -72,7 +72,7 @@ Distributed under the MIT License.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 # – Contact
-정태규 - jtk134@khu.ac.kr
-Project Link: http://khuhub.khu.ac.kr/2020105661/TrendingTopics
+- 정태규 - jtk134@khu.ac.kr
+- Project Link: http://khuhub.khu.ac.kr/2020105661/TrendingTopics
 
 <p align="right">(<a href="#top">back to top</a>)</p>
