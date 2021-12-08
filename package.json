@@ -1,0 +1,15 @@
+{
+  "name": "trendingtopics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://khuhub.khu.ac.kr/2020105661/TrendingTopics.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
