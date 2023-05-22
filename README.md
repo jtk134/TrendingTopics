@@ -41,7 +41,7 @@ repository에서 clone 해 온 파일들을 그대로 한 폴더에 넣어주신
 그 후 browser 주소창에 localhost를 입력하시거나 app.js 파일과 같은 경로에 위치한 localhost.url 파일을 더블 클릭하여
 local 서버에 접속하시면 아래와 같은 화면을 볼 수 있습니다.
 
-![TrendingTopics](/uploads/b8001be56d3ede98448abaf3e55f052c/TrendingTopics.PNG)
+![TrendingTopics](https://github.com/jtk134/TrendingTopics/assets/92131051/91b4edc3-283e-4e42-a8ce-feae253d8099)
 
 만약 port 번호를 바꾸고 싶으면 app.js 파일 내 var port = 80; 부분을 바꾸시면 됩니다.
 
